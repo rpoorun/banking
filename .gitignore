@@ -1,0 +1,7 @@
+#Ignore everything in the current folder
+/* 
+
+#except the following files
+!.gitignore
+!pom.xml
+!src/
